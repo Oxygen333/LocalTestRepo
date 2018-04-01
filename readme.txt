@@ -1,2 +1,1 @@
-Git is a distributed version control system.
-Git is free software.
+删除了所有的代码
